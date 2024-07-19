@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Yellowtail";
+  src: url("../assets/yellowtail-regular.woff") format(woff);
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("../assets/roboto-regular.woff") format(woff);
+}
